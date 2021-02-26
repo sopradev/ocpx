@@ -30,5 +30,7 @@ $ npm install
 $ npm start
 ```
 
+- [Emoji reference](https://www.webfx.com/tools/emoji-cheat-sheet)
+
 See me at:
 :yum:
