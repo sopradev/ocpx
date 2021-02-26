@@ -32,5 +32,6 @@ $ npm start
 
 - [Emoji reference](https://www.webfx.com/tools/emoji-cheat-sheet)
 
-See me at:
+See me at :eyes: :
 :yum:
+:whale: [docker.com](https://hub.docker.com/u/tumbilandia/content)
